@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "dreamx-frontend@dreamx": true,
+    "dreamx-backend@dreamx": true
+  }
+}

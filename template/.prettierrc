@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "prettier-plugin-organize-imports",
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindFunctions": ["cva", "cx"],
+  "trailingComma": "es5"
+}

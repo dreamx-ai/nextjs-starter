@@ -1,0 +1,27 @@
+{
+  "name": "@dreamx-ai/nextjs-starter",
+  "version": "1.0.0",
+  "description": "A starter template for Next.js applications with all the necessary dependencies.",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamx-ai/nextjs-starter.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "bin": {
+    "nextjs-starter": "./bin/index.js"
+  },
+  "files": [
+    "bin",
+    "template"
+  ],
+  "dependencies": {
+    "picocolors": "^1.1.1",
+    "prompts": "^2.4.2"
+  },
+  "devDependencies": {
+    "prettier": "^3.9.6"
+  }
+}
